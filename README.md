@@ -61,7 +61,6 @@ currency converter
   * ├── README.md
   * ├── Report.pdf
   * ├── /screenshots
-  * └── /recordings
     
 ## 📌Screenshots
 1.Entering the amount for conversion from INR to USD
