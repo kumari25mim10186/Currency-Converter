@@ -50,7 +50,10 @@ Select "INR" as the From currency and "USD" as the To currency.
 * Click "Convert Now."
 * Expected Output: A warning pop-up showing "Please enter a valid numeric amount" or "Please enter an amount."
 ### 3.  Offline/Network Error Test:
-* Disconnect your computer from the internet. * Restart the application. * Expected Output: The app should print a "Network Error" error message but still open. * Try converting USD to EUR or to INR. It should work using the hardcoded fallback rates.
+* Disconnect your computer from the internet.
+* * Restart the application.
+  * * Expected Output: The app should print a "Network Error" error message but still open.
+    * * Try converting USD to EUR or to INR. It should work using the hardcoded fallback rates.
   
 ## 📌Project structure
 currency converter
